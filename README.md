@@ -1,6 +1,6 @@
 ## Hi there ,I am Priyadharshini S
-![logo](https://github.com/Priyadharshini88/Priyadharshini-S/blob/main/github-header-image.png)
-<h1 align="center">Hi 👋, I'm Priyadharshini S</h1>
+![logo]( https://github.com/Priyadharshini88/Priyadharshini-S/blob/main/github-header-image.png)
+<h1 align="center">Hi, I'm Priyadharshini S</h1>
 <h3 align="center">A passionate java developer at India</h3>
 
 <img align="right" alt="coding" width="400" height="250" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **Funny**
 ## Contributions
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/THARUNESHWAR-369/THARUNESHWAR-369/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" width="1300" src="https://raw.githubusercontent.com/THARUNESHWAR-369/THARUNESHWAR-369/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 
 ##  Languages and Tools I Use
