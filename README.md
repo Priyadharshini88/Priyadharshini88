@@ -13,9 +13,6 @@
 -  How to reach me **priyadharshinis.94860@gmail.com**
 
 - ⚡ Fun fact **Funny**
-## Contributions
-  <img alt="snake eating my contributions" width="1300" src="https://raw.githubusercontent.com/THARUNESHWAR-369/THARUNESHWAR-369/output/github-contribution-grid-snake.svg" />
-  <br/><br/><br/>
 
 ##  Languages and Tools I Use
 
