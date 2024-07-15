@@ -1,5 +1,5 @@
 ## Hi there ,I am Priyadharshini S
-![logo]( https://github.com/Priyadharshini88/Priyadharshini88/blob/main/banner.svg)
+<img  width="1000" height="100%" src="https://github.com/Priyadharshini88/Priyadharshini88/blob/main/banner.svg">
 <h1 align="center">Hi, I'm Priyadharshini S</h1>
 <h3 align="center">A passionate java developer at India</h3>
 
