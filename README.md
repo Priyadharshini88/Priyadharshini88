@@ -1,6 +1,5 @@
 ## Hi there ,I am Priyadharshini S
-![logo]( https://github.com/Priyadharshini88/Priyadharshini-S/blob/main/github-header-image.png)
-<img  align ="right"src="https://widgetbite.com/banner?title=Priyadharshini%20S&subtitle=JAVA%20DEVELOPER&backgroundpalette=fusion&fontpalette=jungle&titletransform=scale&subtitletransform=skew" width=1000 height=190/>
+![logo]( https://github.com/Priyadharshini88/Priyadharshini88/blob/main/banner.svg)
 <h1 align="center">Hi, I'm Priyadharshini S</h1>
 <h3 align="center">A passionate java developer at India</h3>
 
