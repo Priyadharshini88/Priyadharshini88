@@ -1,4 +1,6 @@
-## Hi there ,I am Priyadharshini S
+<h1 align="center">
+<img src="https://readme-typing-svg.demolab.com?font=cursive&weight=600&size=24&pause=1000&color=red&center=true&vCenter=true&random=false&width=435&lines=Hey+there%2C+I'm+Priyadharshini" />
+</h1>
 <img  width="1000" height="100%" src="https://github.com/Priyadharshini88/Priyadharshini88/blob/main/banner.svg">
 <h1 align="center">Hi, I'm Priyadharshini S</h1>
 <h3 align="center">A passionate java developer at India</h3>
